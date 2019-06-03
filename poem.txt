@@ -2,4 +2,6 @@ the raninblow
 purple
 prink
 color 
+red
+blue
 thes are colors
